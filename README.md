@@ -6,7 +6,6 @@ This repository contains a simple slot machine game implemented using PixiJS, a 
 ### Tools and Technologies Used
 
 - **PixiJS**: A 2D WebGL rendering engine used for rendering graphics and animations.
-- **TweenJS**: Optional library for smooth animations and transitions between states.
 - **JavaScript (ES6+)**: Modern JavaScript syntax and features for application logic.
 - **HTML/CSS**: Basic structure and styling for the web interface.
 
@@ -22,5 +21,4 @@ The project consists of several JavaScript files that collectively create a slot
 ## Technologies Used
 
 - **PixiJS**: A 2D WebGL rendering engine used for rendering graphics and animations.
-- **TweenJS**: Optional library for smooth animations and transitions between states.
 
